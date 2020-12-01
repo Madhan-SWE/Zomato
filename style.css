@@ -1,0 +1,22 @@
+.titleSection {
+    padding: 0;
+}
+.titleImage{
+    height: 500px;
+}
+.titleFormDiv
+{
+    background-color: aliceblue;
+}
+.searchArea{
+    background-color: white;
+    padding: 10px;
+}
+.input{
+    border: 0px;
+}
+.titleFormDiv{
+    position: absolute;
+    z-index: 10;
+    top: 100px;
+}
